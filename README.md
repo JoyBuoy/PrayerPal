@@ -38,7 +38,7 @@ Place your azan.mp3 and fajr_azan_mishary_rashid.mp3 files in the same directory
 <h2>Usage</h2>
 Run the script:
 
-    python prayer_time_notifier.py
+    python index.py
 
   The script will fetch the current location based on your IP address and then fetch the prayer times using the AlAdhan API.
 
