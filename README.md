@@ -1,4 +1,4 @@
-<h1>PrayerPal-Your-Personal-Prayer-Time-Announcer</h1>
+<h1>PrayerPal - Your Personal Prayer Time Announcer</h1>
 
 <h1>Description</h1>
 Never miss a prayer again with PrayerPal, your personal prayer time announcer! This Python script automatically fetches prayer times based on your location, announces them with text-to-speech, and plays customizable Azan audio files.
